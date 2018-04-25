@@ -1,1 +1,2 @@
 thiss is mine file7.txt
+Second line in picktest
